@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Viktor</h2>
+<h2 align="center">Hi 👋, I'm Viсtor</h2>
 <h3 align="center">Self-Taught Software Developer
   <br>
   <a href="https://linkedin.com/in/viktorskozlovs" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viktorskozlovs" height="25" width="25" /></a>
