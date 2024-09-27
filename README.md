@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm Viсtor<br><br>
    <a href="https://linkedin.com/in/viktorskozlovs" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viktorskozlovs" height="25" width="25" /></a>
-  <a href="https://www.upwork.com/freelancers/~01516562b2eb4185df" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="upwork" height="25" width="25" /></a>
   <a href="https://t.me/clive00lewis" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="telegram" height="25" width="25" /></a>
 </h2>
 <h4 align="center">
@@ -9,7 +8,7 @@
   <img src="https://media3.giphy.com/media/3oKIPsx2VAYAgEHC12/200.gif">
 </h4>
 
-<p align="center">Self-taught Software Developer who loves pugs 🐶 and suffers daily from imposter syndrome 🤩  </p>
+<p align="center">Mainly a corporate rat 🐀, but sometimes I work on my personal projects 🤫</p>
 <hr>
 
 <h4 align="left">Programming Languages:</h4>
